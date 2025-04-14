@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 pip install streamlit cryptography 
 
-4. Launch the App streamlit run secure_data_app.py
+**Launch the App streamlit run secure_data_app.py**
 ________________________________________
 📁 Project Structure
 

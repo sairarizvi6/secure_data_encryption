@@ -1,4 +1,4 @@
-# secure_data_encryption
+# Secure_Data_Encryption
 Secure-Data-Encryption-System-Using-Streamlit
 
 🔐 Secure Data Encryption System

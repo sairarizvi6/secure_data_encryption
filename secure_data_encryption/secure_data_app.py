@@ -188,4 +188,4 @@ elif st.session_state.current_page == "Login":
 
 # Add a footer
 st.markdown("---")
-st.markdown("🔐 Secure Data Encryption System | Academic Project")
+st.markdown("🔐 Secure Data Encryption System | Academic Project | Made By Saira Rizvi ✌")
